@@ -1,0 +1,16 @@
+C:\Users\Mark\source\repos\Neural_Network_Activity\bin\Debug\net8.0-windows\Neural_Network_Activity.exe
+C:\Users\Mark\source\repos\Neural_Network_Activity\bin\Debug\net8.0-windows\Neural_Network_Activity.deps.json
+C:\Users\Mark\source\repos\Neural_Network_Activity\bin\Debug\net8.0-windows\Neural_Network_Activity.runtimeconfig.json
+C:\Users\Mark\source\repos\Neural_Network_Activity\bin\Debug\net8.0-windows\Neural_Network_Activity.dll
+C:\Users\Mark\source\repos\Neural_Network_Activity\bin\Debug\net8.0-windows\Neural_Network_Activity.pdb
+C:\Users\Mark\source\repos\Neural_Network_Activity\obj\Debug\net8.0-windows\Neural_Network_Activity.Form1.resources
+C:\Users\Mark\source\repos\Neural_Network_Activity\obj\Debug\net8.0-windows\Neural_Network_Activity.csproj.GenerateResource.cache
+C:\Users\Mark\source\repos\Neural_Network_Activity\obj\Debug\net8.0-windows\Neural_Network_Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\Neural_Network_Activity\obj\Debug\net8.0-windows\Neural_Network_Activity.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\Neural_Network_Activity\obj\Debug\net8.0-windows\Neural_Network_Activity.AssemblyInfo.cs
+C:\Users\Mark\source\repos\Neural_Network_Activity\obj\Debug\net8.0-windows\Neural_Network_Activity.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Neural_Network_Activity\obj\Debug\net8.0-windows\Neural_Network_Activity.dll
+C:\Users\Mark\source\repos\Neural_Network_Activity\obj\Debug\net8.0-windows\refint\Neural_Network_Activity.dll
+C:\Users\Mark\source\repos\Neural_Network_Activity\obj\Debug\net8.0-windows\Neural_Network_Activity.pdb
+C:\Users\Mark\source\repos\Neural_Network_Activity\obj\Debug\net8.0-windows\Neural_Network_Activity.genruntimeconfig.cache
+C:\Users\Mark\source\repos\Neural_Network_Activity\obj\Debug\net8.0-windows\ref\Neural_Network_Activity.dll

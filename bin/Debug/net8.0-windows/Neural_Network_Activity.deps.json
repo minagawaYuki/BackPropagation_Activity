@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Neural_Network_Activity/1.0.0": {
+        "runtime": {
+          "Neural_Network_Activity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neural_Network_Activity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
